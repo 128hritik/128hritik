@@ -14,7 +14,7 @@
 ### Connect with me<img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/>:
 
 <div align="center">
- <a href="www.linkedin.com/in/ ritik-sharma-8a5629213" target="_blank">
+ <a href="https://www.linkedin.com/in/ritik-sharma-8a5629213">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
   <a href="https://github.com/128hritik" target="_blank">
