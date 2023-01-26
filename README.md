@@ -23,6 +23,9 @@
  <a href="https://twitter.com/i_Hrithik_?t=twOtqCPhyfgBf-z7U0b_-w&s=08">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
+ <a href="https://instagram.com/i.hrithik" target="_blank">
+   <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="margin-bottom: 5px;"/>
+ </a>
  
   ---
   
